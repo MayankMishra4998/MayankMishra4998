@@ -13,6 +13,7 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 🎓 IT student with a strong interest in web development.
 
@@ -43,14 +44,19 @@
 
 ---
 
+
 ## 🔥 Featured Projects:
 
 🚀 **[Trendy_clone](https://mayank-trady-clone.netlify.app/)**
 Trendy Clone is a sleek, responsive template showcasing clean navigation, service highlights (Android, iOS, UX, Design), and a filterable portfolio. The layout strikes a balance between visual polish and professionalism—ideal for digital agencies or freelance developers.
 
+
+
+
+
 ## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cursorhigh&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankmishra4998&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cursorhigh&theme=black-ice&hide_border=true&stroke=FF0000&background=000000&ring=FF0000&fire=FF0000" />
 </p>
 
