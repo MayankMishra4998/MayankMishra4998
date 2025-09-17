@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FF0000&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Developer;Next.js+%7C+React.js+%7C+Tailwind+CSS+%7C+JavaScript+%7C+MongoDB;Building+Scalable+and+Efficient+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FF0000&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Developer;Next.js+%7C+React.js+%7C+Tailwind+CSS+%7C+JavaScript+%7C+MongoDB;" />
 
 </p>
 
@@ -14,16 +14,21 @@
 ---
 
 ## 👨‍💻 About Me
-- 🎓 **B.Tech-M.Tech CS & Eng. (Cybersecurity) Student** at [NFSU Delhi](https://www.nfsu.ac.in/).
-- 💡 Passionate about using technology to drive innovation in fast-paced environments. Experienced in building e-commerce and CTF platforms.
-- 💼 Contributed to university level CTFs and conducted them. Worked on multiple paid contracts building full-stack apps with Django, React, and PostgreSQL, creating robust solutions such as CTF platforms, e-commerce websites, and business showcase portals.
-- 🚀 **Currently Building:** A real-time **sound-sync web app** with chat and AI topic suggestions.
-- 🏆 **Hackathons & Achievements:**
-  - Built **Chemotrade [paid]**, a commercial e-commerce platform for selling chemicals online, using Django and Next.js.
-  - Built **Madhav Groups Website [paid]**, a professional portfolio website developed for a construction business.
-  - **1st Runner up at CTF @ NFSU Delhi among all years 2024**.
-  - **2nd Runner up @ national level Defender's connect summit 2025**.
-   - **2 times winner at GFG hackathons [BMX IQ Race & Ecosight-project]**.
+🎓 IT student with a strong interest in web development.
+
+🌐 Passionate about creating responsive and user-friendly websites.
+
+⚡ Skilled in front-end and back-end technologies (constantly learning & improving).
+
+🔍 Focused on writing clean, efficient, and scalable code.
+
+🚀 Enthusiastic about building projects that solve real-world problems.
+
+📚 Always exploring new tools, frameworks, and technologies.
+
+🤝 Open to collaboration, open-source contributions, and teamwork.
+
+🎯 Goal: To grow as a full-stack developer and contribute to impactful projects.
   
 ---
 
