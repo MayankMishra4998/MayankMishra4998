@@ -1,7 +1,7 @@
 <h1 align="center"> MayankMishra4998 </h1>
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/115407035?v=4" width="150" height="150" style="border-radius: 50%;" />
+  <img src="https://tse1.mm.bing.net/th/id/OIP.CGaWETl7uDhoZ1VqLcKjfAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" width="150" height="150" style="border-radius: 50%;" />
 </p>
 
 
