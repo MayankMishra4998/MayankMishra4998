@@ -29,7 +29,7 @@
 
 ## 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://glints.com/id/lowongan/wp-content/uploads/2020/10/logo-reactjs.jpg" />
+  <img width="50" height="50" src="https://glints.com/id/lowongan/wp-content/uploads/2020/10/logo-reactjs.jpg" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-%23092E20?style=for-the-badge&logo=django&logoColor=white" />
