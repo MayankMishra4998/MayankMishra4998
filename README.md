@@ -1,9 +1,5 @@
 <h1 align="center"> MayankMishra4998 </h1>
 
-<p align="center">
-  <img  src="https://tse1.mm.bing.net/th/id/OIP.CGaWETl7uDhoZ1VqLcKjfAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3" width="250" height="250" />
-</p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FF0000&center=true&vCenter=true&width=800&height=50&lines=Full-Stack+Developer;Next.js+%7C+React.js+%7C+Tailwind+CSS+%7C+JavaScript+%7C+MongoDB;" />
