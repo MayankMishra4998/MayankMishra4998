@@ -47,19 +47,6 @@
 
 🚀 **[Trendy_clone](https://mayank-trady-clone.netlify.app/)**
 Trendy Clone is a sleek, responsive template showcasing clean navigation, service highlights (Android, iOS, UX, Design), and a filterable portfolio. The layout strikes a balance between visual polish and professionalism—ideal for digital agencies or freelance developers.
-🚀 **[EcoSight](https://ecosight.pythonanywhere.com/)**
-_An award-winning data science and web application created during a GeeksForGeeks hackathon. The app analyses environmental data, carbon footprints, and satellite imagery to promote sustainability insights._
-
-🛡️ **[RSA Encryptor](https://rsaproject.vercel.app/)**
-_A mathematical RSA implementation project built using Flask. Developed as part of coursework, it demonstrates the logic and mechanics behind encryption and decryption using the RSA algorithm._
-
-🎮 **[BMX IQ Race GFG](https://medium.com/@swadhinmaharana212/)**
-_A quiz-based racing game developed during a GFG hackathon. It creatively blends competitive racing mechanics with educational quiz elements, making learning both fun and engaging._
-
-⚙️ **[ChEngine.exe Game Engine](https://cursornigh.itch.io/chengine)**
-_An advanced game engine developed in high school, featuring user accounts, online and offline game modes, leaderboards, and more. It showcases early skills in game development and system integration._
-
----
 
 ## 📊 GitHub Stats:
 <p align="center">
