@@ -53,7 +53,7 @@ Trendy Clone is a sleek, responsive template showcasing clean navigation, servic
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayankmishra4998&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF&bg_color=000000" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cursorhigh&theme=black-ice&hide_border=true&stroke=FF0000&background=000000&ring=FF0000&fire=FF0000" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayankmishra4998&theme=black-ice&hide_border=true&stroke=FF0000&background=000000&ring=FF0000&fire=FF0000" />
 </p>
 
 ---
