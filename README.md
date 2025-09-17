@@ -45,9 +45,8 @@
 
 ## 🔥 Featured Projects:
 
-🚀 **[Hackster CTF Platform](https://hacksterctf.vercel.app/)**
-_A CTF hosting platform built with Next.js, Tailwind CSS, Django, and PostgreSQL. Designed to support multiple concurrent events with high performance and strong security. Over 50 unique users and players registered and actively using the platform._
-
+🚀 **[Trendy_clone](https://mayank-trady-clone.netlify.app/)**
+Trendy Clone is a sleek, responsive template showcasing clean navigation, service highlights (Android, iOS, UX, Design), and a filterable portfolio. The layout strikes a balance between visual polish and professionalism—ideal for digital agencies or freelance developers.
 🚀 **[EcoSight](https://ecosight.pythonanywhere.com/)**
 _An award-winning data science and web application created during a GeeksForGeeks hackathon. The app analyses environmental data, carbon footprints, and satellite imagery to promote sustainability insights._
 
