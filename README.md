@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FF0000&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Developer;Next.js+%7C+React.js+%7C+Tailwind+CSS;Building+Scalable+and+Efficient+Web+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&color=FF0000&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+Developer;Next.js+%7C+React.js+%7C+Tailwind+CSS+%7C + JavaScript +MongoDB;Building+Scalable+and+Efficient+Web+Apps" />
 
 </p>
 
