@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 First-year **B.Tech CSE** student at **JSS Academy of Technical Education, Noida**
+- 🎓 First-year **B.Tech** student at **JSS Academy of Technical Education, Noida**
 - 💡 Passionate about **Web Development**, **APIs**, and **AI tools**
 - 🛠️ Learning **React.js**, **Node.js**, and exploring **Python for AI/ML**
 
