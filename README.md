@@ -16,7 +16,9 @@
 
 ---
 
-##🔥 Featured Projects:
+###🔥 Featured Projects:
+
+
 https://mayank-trady-clone.netlify.app/ 
 A sleek and responsive multi-section landing page inspired by modern agency websites. This clone showcases clean UI, smooth scroll navigation, and modular design—perfect for presenting services, portfolios, and client testimonials.
 
