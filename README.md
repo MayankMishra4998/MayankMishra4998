@@ -9,13 +9,16 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a **B.Tech CSE** student at **JSS Academy of Technical Education, Noida** (Batch of 2028)
+- 🎓 I'm a **B.Tech** student at **JSS Academy of Technical Education, Noida**
 - 💡 Super curious about **Tech**, especially **Web Development**, **APIs**, and **AI tools**
 - 🛠️ Currently learning **React.js**, **Node.js**, and exploring **AI/ML with Python**
-- 🌱 Always building something new—calculators, converters, trackers—you name it!
 - 🎯 Goal: Contribute to Open Source & crack **GSoC 2026** 💪
 
 ---
+
+##🔥 Featured Projects:
+https://mayank-trady-clone.netlify.app/ 
+A sleek and responsive multi-section landing page inspired by modern agency websites. This clone showcases clean UI, smooth scroll navigation, and modular design—perfect for presenting services, portfolios, and client testimonials.
 
 ### 🧰 Tech Stack
 ![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
