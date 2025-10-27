@@ -67,11 +67,6 @@ Built to sharpen frontend skills and showcase design consistency.
 
 
 
-
-
-## GitHub Streaks 🔥
-![Streaks](https://nirzak-streak-stats.vercel.app/?user=MayankMishra4998&theme=jolly&date_format=j%20M%5B%20Y%5D)
-
 ## Latest Tweet 🐦  
 [![](https://gtce.itsvg.in/api?username=MayankMishra4998&theme=jolly&response=false)](https://github.com/MayankMishra4998)
 > Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
