@@ -64,18 +64,4 @@ Built to sharpen frontend skills and showcase design consistency.
 
 > _“Code like a poet, debug like a detective, and dream like an innovator.”_ ✨
 
-
-
-
-## Latest Tweet 🐦  
-[![](https://gtce.itsvg.in/api?username=MayankMishra4998&theme=jolly&response=false)](https://github.com/MayankMishra4998)
-> Twitter API pricing changes Killed this tool sadly, but we are trying to find a workaround, let's see.
-
 ### Thanks for Visiting my GitHub Profile!
-
----
-<p align="center">
-<img src="https://github.com/MayankMishra4998/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
-
-[![](https://visitcountpro.netlify.app/api?id=MayankMishra4998&pretty=true)](https://visitcount.itsvg.in)
