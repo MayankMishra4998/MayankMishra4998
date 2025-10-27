@@ -56,7 +56,9 @@ Built to sharpen frontend skills and showcase design consistency.
 
 ## 🔗 Connect with Me
 
+<p align="center">
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mannash4998)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankMishra4998)
+</p>
 
 ---
 
