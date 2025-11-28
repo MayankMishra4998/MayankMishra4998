@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Mannash</h1>
+<h1 align="center">Hi there 👋, I'm Mayank</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=React.js+%E2%9D%A4%EF%B8%8F+Node.js+%E2%9D%A4%EF%B8%8F+Tech+%F0%9F%94%A5;Always+Learning+%F0%9F%93%9A;Building+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
