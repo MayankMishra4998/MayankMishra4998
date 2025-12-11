@@ -92,10 +92,11 @@ Built to sharpen frontend skills and showcase design consistency.
  1032.50  ┤     ╰─╯
  1000.00  ┤
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-Thu%2011%20Dec%202025%2016:21%20IST-blue)
+
  
   ```
 ---
+### Last Updated: 11 December 2025, 16:21 IST
 
 > _“Code like a poet, debug like a detective, and dream like an innovator.”_ ✨
 
