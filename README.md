@@ -13,7 +13,7 @@
 - 💡 Passionate about **Web Development**, **APIs**, and **AI tools**
 - 🛠️ Learning **React.js**, **Node.js**, and exploring **Python for AI/ML**
  
-- 💬 Ask me about [Geoguessr](https://youtu.be/9XFyngt1dk0?t=1268), [Chess](https://www.chess.com/member/sciencepal) and Tintin comics
+- 💬 Ask me about [Chess](https://www.chess.com/member/maanubadmass)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My name is an anagram of "I Play Data"
   
