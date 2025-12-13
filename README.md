@@ -68,29 +68,29 @@ Built to sharpen frontend skills and showcase design consistency.
 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mannash4998)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankMishra4998)
 
-##### I am currently aiming to reach ELO 1340 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
+##### I am currently aiming to reach ELO 1120 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
 
   ```
   # ♟︎ Chess.com Ratings Chart #
   
   Blitz Rating
- 1340.00  ┤                                                                                                  ╭
- 1334.50  ┤                                                                                                  │
- 1330.00  ┤                                                                                         ╭╮   ╭╮  │
- 1300.50  ┤                                                                                        ╭╯╰───╯╰╮╭╯
- 1253.00  ┤                                                                                    ╭╮╭─╯       ││
- 1234.50  ┤                                                                                 ╭╮╭╯╰╯         ╰╯
- 1219.00  ┤                         ╭╮                                                    ╭─╯╰╯
- 1200.50  ┤                        ╭╯╰╮╭╮                                    ╭╮╭╮╭╮      ╭╯
- 1190.00  ┤                   ╭────╯  ╰╯╰─╮     ╭╮              ╭╮  ╭╮    ╭──╯╰╯╰╯╰────╮╭╯
- 1176.50  ┤                 ╭─╯           ╰╮  ╭─╯╰─╮         ╭╮╭╯╰╮╭╯╰╮  ╭╯            ╰╯
- 1160.00  ┤                ╭╯              ╰──╯    ╰─╮      ╭╯╰╯  ╰╯  ╰──╯
- 1140.50  ┤               ╭╯                         ╰╮   ╭─╯
- 1134.00  ┤╭─╮           ╭╯                           ╰─╮╭╯
- 1110.50  ┼╯ ╰─╮        ╭╯                              ╰╯
- 1064.00  ┤    ╰╮ ╭─────╯
- 1032.50  ┤     ╰─╯
- 1000.00  ┤
+ 1120.00  ┤                                                                                                  ╭
+ 1104.50  ┤                                                                                                  │
+ 1090.00  ┤                                                                                         ╭╮   ╭╮  │
+ 1076.50  ┤                                                                                        ╭╯╰───╯╰╮╭╯
+ 1060.00  ┤                                                                                    ╭╮╭─╯       ││
+ 1050.50  ┤                                                                                 ╭╮╭╯╰╯         ╰╯
+ 1043.00  ┤                         ╭╮                                                    ╭─╯╰╯
+ 1035.50  ┤                        ╭╯╰╮╭╮                                    ╭╮╭╮╭╮      ╭╯
+ 1021.00  ┤                   ╭────╯  ╰╯╰─╮     ╭╮              ╭╮  ╭╮    ╭──╯╰╯╰╯╰────╮╭╯
+ 1012.50  ┤                 ╭─╯           ╰╮  ╭─╯╰─╮         ╭╮╭╯╰╮╭╯╰╮  ╭╯            ╰╯
+ 1001.00  ┤                ╭╯              ╰──╯    ╰─╮      ╭╯╰╯  ╰╯  ╰──╯
+  990.50  ┤               ╭╯                         ╰╮   ╭─╯
+  970.00  ┤╭─╮           ╭╯                           ╰─╮╭╯
+  965.50  ┼╯ ╰─╮        ╭╯                              ╰╯
+  958.00  ┤    ╰╮ ╭─────╯
+  950.50  ┤     ╰─╯
+  945.00  ┤
 
 
  
