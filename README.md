@@ -93,8 +93,7 @@ Built to sharpen frontend skills and showcase design consistency.
  0945.00  ┤
 
 
- 
-  ```
+```
 ---
 ### Last Updated: 11 December 2025, 16:21 IST
 
