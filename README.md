@@ -54,13 +54,11 @@ Built to sharpen frontend skills and showcase design consistency.
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MayankMishra4998&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankMishra4998&theme=tokyonight" alt="GitHub Streak" />
-</p>
+<!-- Contributions and longest streak -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+
+![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)
 
 ---
 
