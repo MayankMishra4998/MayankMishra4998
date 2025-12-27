@@ -56,9 +56,9 @@ Built to sharpen frontend skills and showcase design consistency.
 
 
 <!-- Contributions and longest streak -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MayankMishra4998&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 
-![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true)
+![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankMishra4998&theme=github-compact&hide_border=true)
 
 ---
 
