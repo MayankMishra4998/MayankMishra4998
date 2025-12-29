@@ -19,9 +19,7 @@
   
   #### 📫 How to reach me:
   
-[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/channels/@me)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://x.com/Mannash4998)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mannashmishra4998/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mannash_mishra/)  &nbsp; <a href="mailto:mi5294759@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>## 📘 LeetCode Practice
-
-[![LeetCode Problem](https://leetcode.com/static/images/LeetCode_logo.png)](https://leetcode.com/problems/generate-fibonacci-sequence/)
+[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/channels/@me)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://x.com/Mannash4998)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mannashmishra4998/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mannash_mishra/)  &nbsp; <a href="mailto:mi5294759@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> &nbsp; [<img src="https://leetcode.com/static/images/LeetCode_logo.png" width="3.5%"/>](https://leetcode.com/u/MayankMishra4998/) 
 
 
 ## 🔥 Featured Project
