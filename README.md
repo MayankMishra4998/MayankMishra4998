@@ -12,8 +12,6 @@
 - 🎓 First-year **B.Tech** student at **JSS Academy of Technical Education, Noida**
 - 💡 Passionate about **Web Development**, **APIs**, and **AI tools**
 - 🛠️ Learning **React.js**, **Node.js**, and exploring **Python for AI/ML**
- 
-- 💬 Ask me about [Chess](https://www.chess.com/member/maanubadmass)
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: My name is an anagram of "I Play Data"
   
@@ -63,35 +61,6 @@ Built to sharpen frontend skills and showcase design consistency.
 ## 🔗 Connect with Me
 
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mannash4998)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankMishra4998)
-
-##### I am currently aiming to reach ELO 1120 blitz on chess.com ⚡. Here is an ascii tracker of my 100 previous chess.com blitz games.
-
-  ```
-  # ♟︎ Chess.com Ratings Chart #
-  
-  Blitz Rating
- 1120.00  ┤                                                                                                  ╭
- 1104.50  ┤                                                                                                  │
- 1090.00  ┤                                                                                         ╭╮   ╭╮  │
- 1076.50  ┤                                                                                        ╭╯╰───╯╰╮╭╯
- 1060.00  ┤                                                                                    ╭╮╭─╯       ││
- 1050.50  ┤                                                                                 ╭╮╭╯╰╯         ╰╯
- 1043.00  ┤                         ╭╮                                                    ╭─╯╰╯
- 1035.50  ┤                        ╭╯╰╮╭╮                                    ╭╮╭╮╭╮      ╭╯
- 1021.00  ┤                   ╭────╯  ╰╯╰─╮     ╭╮              ╭╮  ╭╮    ╭──╯╰╯╰╯╰────╮╭╯
- 1012.50  ┤                 ╭─╯           ╰╮  ╭─╯╰─╮         ╭╮╭╯╰╮╭╯╰╮  ╭╯            ╰╯
- 1001.00  ┤                ╭╯              ╰──╯    ╰─╮      ╭╯╰╯  ╰╯  ╰──╯
- 0990.50  ┤               ╭╯                         ╰╮   ╭─╯
- 0970.00  ┤╭─╮           ╭╯                           ╰─╮╭╯
- 0965.50  ┼╯ ╰─╮        ╭╯                              ╰╯
- 0958.00  ┤    ╰╮ ╭─────╯
- 0950.50  ┤     ╰─╯
- 0945.00  ┤
-
-
-```
----
-### Last Updated: 11 December 2025, 16:21 IST
 
 > _“Code like a poet, debug like a detective, and dream like an innovator.”_ ✨
 
