@@ -37,12 +37,9 @@ Built to sharpen frontend skills and showcase design consistency.
 ---
 ### [Netflix Clone 🎬](https://mayank-netfllix-clone.netlify.app)
 
-
-## 🚀 Features
-- Modern UI inspired by Netflix
-- Responsive design for all devices
-- Movie posters and hover effects
-- Clean and structured codebase
+- ✨ Modern UI inspired by Netflix
+- 🖼️ Movie posters and hover effects
+- 📜 Clean and structured codebase
 - HTML , CSS , JS 
 ---
 
