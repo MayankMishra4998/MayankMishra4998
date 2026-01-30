@@ -35,6 +35,34 @@ This clone features:
 Built to sharpen frontend skills and showcase design consistency.
 
 ---
+# Netflix Clone 🎬
+
+A responsive Netflix Clone built using **React.js** and **JavaScript**, deployed on [Netlify](https://mayank-netfllix-clone.netlify.app).
+
+## 🚀 Features
+- Modern UI inspired by Netflix
+- Responsive design for all devices
+- Movie posters and hover effects
+- Clean and structured codebase
+
+## 🛠️ Tech Stack
+- **React.js**
+- **JavaScript (ES6+)**
+- **CSS3 / Flexbox**
+- **Netlify** (for deployment)
+
+## 📸 Live Demo
+👉 [Click here to view](https://mayank-netfllix-clone.netlify.app)
+
+## 📂 Installation
+Clone the repository and run locally:
+
+```bash
+git clone https://github.com/your-username/netflix-clone.git
+cd netflix-clone
+npm install
+npm start
+
 
 ## 🧰 Tech Stack
 
