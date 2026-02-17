@@ -43,6 +43,13 @@ Built to sharpen frontend skills and showcase design consistency.
 - HTML , CSS , JS 
 ---
 
+
+### [Spotify Clone 🎬](https://mayank-spotiffy-clone.netlify.app/)
+
+- HTML , CSS , JS 
+---
+
+
 ## 📈 GitHub Stats
 <!-- Contributions and longest streak -->
   [![GitHub Streak](https://streak-stats.demolab.com?user=MayankMishra4998&theme=tokyonight)](https://git.io/streak-stats)
