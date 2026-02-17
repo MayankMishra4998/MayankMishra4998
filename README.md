@@ -45,8 +45,12 @@ Built to sharpen frontend skills and showcase design consistency.
 
 
 ### [Spotify Clone 🎬](https://mayank-spotiffy-clone.netlify.app/)
+Spotify Web Player inspired UI
 
-- HTML , CSS , JS 
+- Built using HTML, CSS, JavaScript
+- Includes Sidebar + Playlists + Song cards (Still on Working)
+- Clean  layout
+- Best for UI practice / frontend project
 ---
 
 
