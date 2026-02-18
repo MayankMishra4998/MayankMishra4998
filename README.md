@@ -54,7 +54,9 @@ Spotify Web Player inspired UI
 ---
 
 ### [For More Simple Project](https://github.com/MayankMishra4998/javascript-simple-project)
-
+A simple project built with **JavaScript** to demonstrate basic concepts like variables, functions, and DOM manipulation.
+- Pure JavaScript (no frameworks)
+- Interactive UI
 
 
 ## 📈 GitHub Stats
