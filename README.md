@@ -44,7 +44,7 @@ Built to sharpen frontend skills and showcase design consistency.
 ---
 
 
-### [Spotify Clone 🎬 (Still on Work)](https://mayank-spotiffy-clone.netlify.app/)
+### [Spotify Clone 🎬 (Still on Work)](https://mayank-spotiify-clone.netlify.app//)
 Spotify Web Player inspired UI
 
 - Built using HTML, CSS, JavaScript
