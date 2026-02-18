@@ -53,6 +53,9 @@ Spotify Web Player inspired UI
 - Best for UI practice / frontend project
 ---
 
+- [For More Simple Project](https://github.com/MayankMishra4998/javascript-simple-project)
+
+
 
 ## 📈 GitHub Stats
 <!-- Contributions and longest streak -->
