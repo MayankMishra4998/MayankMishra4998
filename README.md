@@ -1,33 +1,4 @@
 
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MayankMishra4998&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=MayankMishra4998&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankMishra4998&theme=synthwave&hide_border=true" width="49%"/>
-</div>
-
----
-
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChaitanyaSai-Meka&theme=dracula&hide_border=true" />
-</div>
-
----
-
-## 🗂️ Language Usage
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaSai-Meka&layout=compact&theme=highcontrast" />
-
-
-
-<h3 align="center">Thanks for stopping by 🫶</h3>
-<p align="right"><a href="#top">🔝 Back to Top</a></p>
-
 <h1 align="center">Hi there 👋, I'm Mayank</h1>
 
 <p align="center">
