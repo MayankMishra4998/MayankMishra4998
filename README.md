@@ -21,16 +21,11 @@
   
 ## 🤝 Connect With Me  
 <div align="center">
-  <a href="https://x.com/IAMCHAITANYASAI" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" /></a>
-  <a href="https://www.linkedin.com/in/chaitanya-sai-meka/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
-  <a href="https://www.instagram.com/chaitanyasai_meka/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
-  <a href = "https://www.linkedin.com/in/mannashmishra4998/" target= "_blank"><img src="https://leetcode.com/static/images/LeetCode_logo.png" width="5%"/></a>
+  <a href="https://x.com/Mannash4998" target="_blank"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" width="60" /></a>
+  <a href="https://www.linkedin.com/in/mannashmishra4998/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
+  <a href="https://www.instagram.com/mannash_mishra/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
+  <a href = "https://leetcode.com/u/MayankMishra4998/" target= "_blank"><img src="https://leetcode.com/static/images/LeetCode_logo.png" width="5%"/></a>
    <a href = "https://discord.com/channels/@me" target= "_blank"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4%"/></a>
-
-[<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://x.com/Mannash4998)&nbsp;
-[<img src="https://leetcode.com/static/images/LeetCode_logo.png" width="3.5%"/>](https://leetcode.com/u/MayankMishra4998/)&nbsp;
-[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/channels/@me)&nbsp;
-[<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mannash_mishra/)
 
 
 
