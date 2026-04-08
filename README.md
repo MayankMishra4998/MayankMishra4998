@@ -40,10 +40,10 @@
 ## 📊 More GitHub Insights
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ChaitanyaSai-Meka&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ChaitanyaSai-Meka&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ChaitanyaSai-Meka&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaSai-Meka&theme=highcontrast" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayankMishra4998&theme=highcontrast" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MayankMishra4998&theme=highcontrast" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MayankMishra4998&theme=highcontrast" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayankMishra4998&theme=highcontrast" height="150" />
 </div>
 
 
