@@ -17,10 +17,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChaitanyaSai-Meka&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MayankMishra4998&theme=dracula&no-frame=true&no-bg=true&margin-w=4" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaSai-Meka&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaitanyaSai-Meka&theme=synthwave&hide_border=true" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MayankMishra4998&theme=synthwave&show_icons=true&hide_border=true&count_private=true" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MayankMishra4998&theme=synthwave&hide_border=true" width="49%"/>
 </div>
 
 ---
