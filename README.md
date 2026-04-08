@@ -82,7 +82,6 @@ A simple project built with **JavaScript** to demonstrate basic concepts like va
 
 ---
 
-<div aline="center">
 ## 📈 GitHub Stats
 <!-- Contributions and longest streak -->
  [![GitHub Streak](https://streak-stats.demolab.com?user=MayankMishra4998&theme=tokyonight)](https://git.io/streak-stats)
@@ -91,8 +90,6 @@ A simple project built with **JavaScript** to demonstrate basic concepts like va
 
 ![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankMishra4998&theme=github-compact&hide_border=true)
 ---
-  
-</div>
 
 
 ## 📊 More GitHub Insights
