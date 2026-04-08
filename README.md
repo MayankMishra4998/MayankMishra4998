@@ -40,6 +40,12 @@
 [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.com/channels/@me)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://x.com/Mannash4998)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/mannashmishra4998/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/mannash_mishra/)  &nbsp;[<img src="https://leetcode.com/static/images/LeetCode_logo.png" width="3.5%"/>](https://leetcode.com/u/MayankMishra4998/) 
 
 
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,nextjs,java,react,nodejs,express,postgres,mongodb,firebase,supabase,tailwind,postman,figma,blender,linux,git,github,vscode,mysql,prisma,fastapi,golang" />
+</p>
+
 ## 🔥 Featured Project
 
 ### [Mayank-Trady Clone](https://mayank-trady-clone.netlify.app/)
@@ -96,14 +102,6 @@ A simple project built with **JavaScript** to demonstrate basic concepts like va
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayankMishra4998&theme=highcontrast" height="150" />
 </div>
 
-
-
 ---
-
-## 🔗 Connect with Me
-
-[![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Mannash4998)  [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MayankMishra4998)
-
-> _“Code like a poet, debug like a detective, and dream like an innovator.”_ ✨
 
 ### Thanks for Visiting my GitHub Profile!
