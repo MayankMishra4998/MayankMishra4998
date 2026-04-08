@@ -25,6 +25,7 @@
   <a href="https://www.linkedin.com/in/mannashmishra4998/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60" /></a>
   <a href="https://www.instagram.com/mannash_mishra/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
   <a href = "https://leetcode.com/u/MayankMishra4998/" target= "_blank"><img src="https://leetcode.com/static/images/LeetCode_logo.png" width="5%"/></a>
+  <br></br>
    <a href = "https://discord.com/channels/@me" target= "_blank"><img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="4%"/></a>
 
 
