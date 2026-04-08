@@ -26,8 +26,9 @@
   <a href="https://www.instagram.com/chaitanyasai_meka/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" /></a>
   <a href = "https://www.linkedin.com/in/mannashmishra4998/" target= "_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="5%"/></a>
    <a href = "https://x.com/Mannash4998" target= "_blank"><img src="https://img.icons8.com/color/48/000000/twitter.png" width="5%"/></a>
-
  <a href = "https://x.com/Mannash4998" target= "_blank"><img src="https://leetcode.com/static/images/LeetCode_logo.png" width="5%"/></a>
+
+ mayank mishta
 
 [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://x.com/Mannash4998)&nbsp;
 [<img src="https://leetcode.com/static/images/LeetCode_logo.png" width="3.5%"/>](https://leetcode.com/u/MayankMishra4998/)&nbsp;
