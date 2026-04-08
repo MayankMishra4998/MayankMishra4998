@@ -57,6 +57,7 @@ Simple HTML CSS & JS Web page
 ### [Spotify Clone 🎬 (Still on Work)](https://mayank-spotiify-clone.netlify.app//)
 Spotify Web Player inspired UI Including Sidebar , song's
 
+ ---
 ### [For More Simple Project](https://github.com/MayankMishra4998/Java-Script-Simple-Project)
 A simple project built with **JavaScript** to demonstrate basic concepts like variables, functions, and DOM manipulation.
 - Pure JavaScript (no frameworks)
