@@ -45,35 +45,17 @@
 ## 🔥 Featured Project
 
 ### [Mayank-Trady Clone](https://mayank-trady-clone.netlify.app/)
-
-A sleek, responsive multi-section landing page inspired by modern agency websites.  
-This clone features:
-
-- ✨ Clean UI with modular layout
-- 📜 Smooth scroll navigation
-- 🖼️ Portfolio gallery & client showcase
-- 📱 Mobile-first responsive design
-
-Built to sharpen frontend skills and showcase design consistency.
+Simple HTML CSS & JS Web page
 
 ---
 ### [Netflix Clone 🎬](https://mayank-netfllix-clone.netlify.app)
 
-- ✨ Modern UI inspired by Netflix
-- 🖼️ Movie posters and hover effects
-- 📜 Clean and structured codebase
-- HTML , CSS , JS 
+- ✨ Modern UI inspired by Netflix by HTML , CSS ,JS
 ---
 
 
 ### [Spotify Clone 🎬 (Still on Work)](https://mayank-spotiify-clone.netlify.app//)
-Spotify Web Player inspired UI
-
-- Built using HTML, CSS, JavaScript
-- Includes Sidebar + Playlists + Song cards (Still on Working)
-- Clean  layout
-- Best for UI practice / frontend project
----
+Spotify Web Player inspired UI Including Sidebar , song's
 
 ### [For More Simple Project](https://github.com/MayankMishra4998/Java-Script-Simple-Project)
 A simple project built with **JavaScript** to demonstrate basic concepts like variables, functions, and DOM manipulation.
