@@ -35,20 +35,7 @@
 ## 🗂️ Language Usage
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaSai-Meka&layout=compact&theme=highcontrast" />
 
----
 
-## 📊 More GitHub Insights
-
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayankMishra4998&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MayankMishra4998&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MayankMishra4998&theme=highcontrast" height="150" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayankMishra4998&theme=highcontrast" height="150" />
-</div>
-
-
-
----
 
 <h3 align="center">Thanks for stopping by 🫶</h3>
 <p align="right"><a href="#top">🔝 Back to Top</a></p>
@@ -139,6 +126,20 @@ A simple project built with **JavaScript** to demonstrate basic concepts like va
   [![GitHub Streak](https://streak-stats.demolab.com?user=MayankMishra4998&theme=tokyonight)](https://git.io/streak-stats)
 
 ![Contributions Graph](https://github-readme-activity-graph.vercel.app/graph?username=MayankMishra4998&theme=github-compact&hide_border=true)
+
+---
+---
+
+## 📊 More GitHub Insights
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MayankMishra4998&theme=highcontrast" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MayankMishra4998&theme=highcontrast" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MayankMishra4998&theme=highcontrast" height="150" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayankMishra4998&theme=highcontrast" height="150" />
+</div>
+
+
 
 ---
 
