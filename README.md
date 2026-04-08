@@ -1,12 +1,7 @@
 
 ---
 
-
-##  About Me  
-- 🎓 2nd-year CSE–AI undergrad passionate about building useful, real-world products.  
-- 🚀 Learning to build, scale, and ship — not just code.  
-- 🧠 Focused on systems, problem-solving, and product thinking.  
-- 💡 Future goal: become a **tech entrepreneur** who creates meaningful tools.  
+  
 - 🌐 Explore my work → [**Portfolio**](https://chaitanya-sai-meka.vercel.app/)
 
 ---
@@ -51,31 +46,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ChaitanyaSai-Meka&theme=highcontrast" height="150" />
 </div>
 
----
 
-## 🏁 Participant In
-
-<div align="center">
-  <a href="https://gssoc.girlscript.tech">
-    <img src="https://github.com/user-attachments/assets/4382cf2c-7cfe-4aaf-9a01-5c26b163fef5" width="200" alt="GSSOC-2024 Badge"/>
-  </a>
-  <p><strong>GSSOC'24 Contributor</strong></p>
-</div>
-
----
-
-## 🏅 GSSOC'24 Postman Challenge Badges
-
-<table align="center">
-  <tr>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="90" height="90" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="90" height="90" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="90" height="90" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="90" height="90" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="90" height="90" /></td>
-    <td><img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="90" height="90" /></td>
-  </tr>
-</table>
 
 ---
 
