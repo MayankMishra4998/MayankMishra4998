@@ -85,7 +85,6 @@ A simple project built with **JavaScript** to demonstrate basic concepts like va
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MayankMishra4998&theme=highcontrast" height="150" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MayankMishra4998&theme=highcontrast" height="150" />
 </div>
-
 ---
 
 ### Thanks for Visiting my GitHub Profile!
