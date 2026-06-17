@@ -87,3 +87,5 @@ A simple project built with **JavaScript** to demonstrate basic concepts like va
 </div>
 ---
 
+
+### Thanks for Visiting my GitHub Profile!
