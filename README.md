@@ -56,7 +56,7 @@ Simple HTML CSS & JS Web page
 ---
 
 
-### [Spotify Clone 🎬 (Still on Work)](https://mayank-spotiify-clone.netlify.app//)
+### [Spotify Clone 🎬 (Still on Work)](https://spotify-mayank.netlify.app/)
 Spotify Web Player inspired UI Including Sidebar , song's
 
  ---
