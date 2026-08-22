@@ -46,7 +46,7 @@
 
 ## 🔥 Featured Project
 
-### [Project Showcase](---)
+### [Project Showcase](https://mayank-projectt.netlify.app/)
 ---
 ## 📈 GitHub Stats
 <!-- Contributions and longest streak -->
