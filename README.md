@@ -44,6 +44,8 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,python,react,nodejs,express,mongodb,tailwind,figma,git,github,vscode" />
 </p>
 
+--- 
+
 ## 🔥 Featured Project
 
 ### [Project Showcase](https://mayank-projectt.netlify.app/)
