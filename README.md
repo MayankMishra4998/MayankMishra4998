@@ -46,27 +46,8 @@
 
 ## 🔥 Featured Project
 
-### [Mayank-Trady Clone](https://mayank-trady-clone.netlify.app/)
-Simple HTML CSS & JS Web page
-
+### [Project Showcase](---)
 ---
-### [Netflix Clone 🎬](https://mayank-netfllix-clone.netlify.app)
-
-- ✨ Modern UI inspired by Netflix by HTML , CSS ,JS
----
-
-
-### [Spotify Clone 🎬 (Still on Work)](https://spotify-mayank.netlify.app/)
-Spotify Web Player inspired UI Including Sidebar , song's
-
- ---
-### [For More Simple Project](https://github.com/MayankMishra4998/Java-Script-Simple-Project)
-A simple project built with **JavaScript** to demonstrate basic concepts like variables, functions, and DOM manipulation.
-- Pure JavaScript (no frameworks)
-- Interactive UI
-
----
-
 ## 📈 GitHub Stats
 <!-- Contributions and longest streak -->
  [![GitHub Streak](https://streak-stats.demolab.com?user=MayankMishra4998&theme=tokyonight)](https://git.io/streak-stats)
