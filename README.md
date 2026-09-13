@@ -60,7 +60,7 @@ A modern, responsive web project showcasing creative UI design and smooth user e
 ![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Showcase)
 
 🔗 **Explore More**  
-Check out the live demo: [Project Showcase](https://mayank-projectt.netlify.app/)  
+Check out the live demo: [Project Showcase](https://mayank-showcase-project.netlify.app/)  
 
 
 ---
