@@ -52,12 +52,6 @@
 🚀 **Overview**  
 A modern, responsive web project showcasing creative UI design and smooth user experience. Built with clean code and optimized for performance.
 
-✨ **Highlights**  
-- Sleek and minimal design with interactive elements  
-- Fully responsive across devices  
-- Fast load times and optimized assets  
-- Showcases innovative front-end development skills  
-
 🛠️ **Tech Stack**  
 - HTML, CSS, JavaScript  
 - React.js for dynamic components  
