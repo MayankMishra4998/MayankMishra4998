@@ -47,9 +47,34 @@
 </p>
 
 --- 
+# 🌐 My Portfolio
 
+Welcome to my portfolio website!
 
+🚀 Explore my projects, skills, achievements, and journey as a developer.
 
+### 🔗 Visit Portfolio
+[Click Here](https://mayank-porttfolio.netlify.app/)
+
+---
+
+## What You'll Find
+
+- 💻 Projects
+- 🛠️ Technical Skills
+- 🏆 Achievements
+- 📜 Resume
+- 📫 Contact Information
+
+---
+
+### About Me
+
+Passionate Computer Science student focused on AI, Machine Learning, Web Development, and building impactful solutions through technology.
+
+---
+
+⭐ Thanks for visiting my portfolio!
 ---
 ## 📈 GitHub Stats
 <!-- Contributions and longest streak -->
