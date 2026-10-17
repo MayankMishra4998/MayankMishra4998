@@ -47,22 +47,6 @@
 
 --- 
 
-## 🔥 Featured Project
-
-### [Project Showcase](https://mayank-showcase-project.netlify.app/)
-  
-A modern, responsive web project showcasing creative UI design and smooth user experience. Built with clean code and optimized for performance.
-
-🛠️ **Tech Stack**  
-- HTML, CSS, JavaScript  
-- React.js for dynamic components  
-- Netlify for deployment  
-
-📸 **Preview**  
-![Project Screenshot](https://via.placeholder.com/800x400.png?text=Project+Showcase)
-
-🔗 **Explore More**  
-Check out the live demo: [Project Showcase](https://mayank-showcase-project.netlify.app/)  
 
 
 ---
